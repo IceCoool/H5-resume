@@ -740,9 +740,9 @@ html, body {
     position: absolute;
     top: 50%;
     left: 50%;
-    margin: -3.2rem 0 0 -2.5rem;
+    margin: -2.5rem 0 0 -2.5rem;
     width: 5rem;
-    height: 7rem;
+    height: 6rem;
 }
 
 .slide8 .present .preBg {
