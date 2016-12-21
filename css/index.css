@@ -459,7 +459,7 @@ html, body {
     left: 50%;
     margin: -3rem 0 0 -2.95rem;
     width: 6rem;
-    height: 6rem;
+    height:6.5rem;
 }
 .slide5 .pro .itemBg{
     position: absolute;
@@ -506,10 +506,10 @@ html, body {
     left: 3rem;
 }
 .pro .itemBg .bgNum7{
-    bottom:0;
+    top: 4.5rem;
     left: 4.5rem;
     width:0rem;
-    height: 1.5rem;
+    height: 1.7rem;
 }
 .pro .itemBg .bgNum{
     position: absolute;
@@ -553,7 +553,7 @@ html, body {
     transition:0.3s 1.2s;
 }
 #page5 .pro .itemBg .bgNum4{
-    height:4.5rem;
+    height:4.7rem;
     -webkit-transition:0.3s 0.3s;
     transition:0.3s 0.3s;
 }
